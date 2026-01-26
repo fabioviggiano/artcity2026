@@ -11,13 +11,20 @@ Rispetto alla scorsa edizione, il materiale qui raccolto è più sintetico e mir
 
 ---
 
+### Cos'è l' Art City
+
+ART CITY Bologna è il programma istituzionale promosso dal Comune di Bologna in collaborazione con BolognaFiere che, dal 2013, accompagna annualmente Arte Fiera trasformando la città in un palcoscenico diffuso dedicato all’arte contemporanea. Un progetto che porta l’arte fuori dai padiglioni fieristici per attivare un dialogo diretto con il tessuto urbano e con la sua comunità.
+
+Ogni edizione di ART CITY Bologna esplora un tema specifico, sviluppato in relazione ai luoghi coinvolti e alle loro storie, rendendo l’arte un veicolo di conoscenza, interpretazione e consapevolezza territoriale. Musei, palazzi storici, archivi e biblioteche convivono con spazi indipendenti, studi d’artista, officine, teatri, cortili e luoghi non convenzionali, dando vita a un programma eterogeneo che include mostre, performance, concerti, installazioni ed eventi speciali. Una mappa culturale in continua espansione che restituisce la complessità e la vitalità del sistema artistico bolognese.
+
 ## ✨ L’edizione 2026: Il corpo della lingua
 
-Quest'anno il focus è sullo **Special Program** realizzato in collaborazione con l’**Alma Mater Studiorum - Università di Bologna**.
-Curata da **Caterina Molteni**, la rassegna celebra la conoscenza come esperienza fisica e spazio di cambiamento.
+Grazie a una speciale collaborazione con l’**Alma Mater Studiorum - Università di Bologna**, lo **Special Program di ART CITY Bologna 2026, Il corpo della lingua**, celebra la conoscenza come esperienza fisica e spazio di cambiamento.
+
 
 ### 🧬 Il Concept
-Sette progetti d’arte contemporanea esplorano le strutture del sapere e nuovi orizzonti espressivi in un itinerario tra **eredità culturale e resistenza**.
+
+Con la curatela di **Caterina Molteni**, sette progetti d'arte contemporanea indagano le strutture del sapere e i nuovi orizzonti espressivi abitando luoghi simbolo dell'Ateneo in un itinerario tra **eredità culturale e resistenza**.
 
 ### 📍 I 7 Luoghi Simbolo
 Le opere sono ospitate in spazi storici e scientifici dell'Ateneo:
