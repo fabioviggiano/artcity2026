@@ -60,4 +60,4 @@ l’opera viene presentata in occasione
 di ART CITY Bologna 2026 sia come
 performance che come video nell’Aula
 Alessandro Ghigi dell’ex Istituto di
-Zoolog
+Zoologia.
