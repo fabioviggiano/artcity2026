@@ -11,41 +11,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.33796,
-          44.50117
-        ]
-      },
-      "properties": {
-        "id": 1,
-        "name": "MAMbo - Museo d'Arte Moderna di Bologna",
-        "category": "Main Project",
-        "artist": "Artista Special Project 2026",
-        "description": "Sede principale delle esposizioni contemporanee. Performance live nella Sala delle Ciminiere.",
-        "address": "Via Don Giovanni Minzoni, 14, Bologna",
-        "marker-color": "#ff0000",
-        "marker-symbol": "museum",
-        "opening_hours": "10:00 - 20:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.34352,
-          44.49425
+          11.35553,
+          44.49659
         ]
       },
       "properties": {
         "id": 2,
-        "name": "Palazzo Re Enzo",
-        "category": "Installazione Storica",
-        "artist": "Collettivo Internazionale",
-        "description": "Installazione immersiva nel Salone del Podestà.",
-        "address": "Piazza del Nettuno, 1, Bologna",
-        "marker-color": "#0000ff",
-        "marker-symbol": "star",
-        "opening_hours": "11:00 - 23:00"
+        "name": "ex Istituto di Zoologia – Aula Alessandro Ghigi",
+        "category": "Special Project",
+        "artist": "deval",
+        "description": "Lezione performativa e video saggio che esplora il ruolo dell’intonazione vocale nella costruzione di gerarchie di potere, intrecciando fonetica, etologia e storia culturale.",
+        "address": "Via San Giacomo 9, Bologna",
+        "marker-color": "#6a5acd",
+        "marker-symbol": "theatre",
+        "opening_hours": "10:00 - 19:00 / sabato 10:00 - 23:00"
       }
     },
     {
@@ -53,62 +32,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.35246,
-          44.49755
+          11.32665,
+          44.48935
         ]
       },
       "properties": {
         "id": 3,
-        "name": "Accademia di Belle Arti",
-        "category": "Opere Studenti",
-        "artist": "Vari",
-        "description": "Open tour delle aule storiche e mostra dei finalisti.",
-        "address": "Via delle Belle Arti, 54, Bologna",
-        "marker-color": "#00ff00",
-        "marker-symbol": "art-gallery",
-        "opening_hours": "09:00 - 19:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.34631,
-          44.48970
-        ]
-      },
-      "properties": {
-        "id": 4,
-        "name": "Teatro Duse",
-        "category": "Performance",
-        "artist": "Compagnia Teatrale Sperimentale",
-        "description": "Performance sonora e visiva site-specific.",
-        "address": "Via Cartoleria, 42, Bologna",
-        "marker-color": "#ffaa00",
-        "marker-symbol": "theatre",
-        "opening_hours": "Spettacoli ore 21:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.34140,
-          44.49620
-        ]
-      },
-      "properties": {
-        "id": 5,
-        "name": "Oratorio di San Filippo Neri",
-        "category": "Installazione Sonora",
-        "artist": "Sound Artist X",
-        "description": "Dialogo tra architettura barocca e musica elettronica.",
-        "address": "Via Manzoni, 5, Bologna",
-        "marker-color": "#800080",
-        "marker-symbol": "music",
-        "opening_hours": "10:00 - 22:00"
+        "name": "ex Facoltà di Ingegneria",
+        "category": "Special Project",
+        "artist": "Mike Kelley",
+        "description": "Raccolta di 31 cortometraggi musicali che indagano il rapporto tra educazione, controllo e devianza, trasformando le attività extracurricolari scolastiche in un carnevale allegorico di impulsi repressi.",
+        "address": "Viale del Risorgimento 2, Bologna",
+        "marker-color": "#ff4500",
+        "marker-symbol": "cinema",
+        "opening_hours": "10:00 - 19:00 / sabato 10:00 - 23:00"
       }
     }
   ]
