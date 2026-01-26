@@ -19,5 +19,5 @@ Di seguito, i link per esplorare nel dettaglio ogni singolo progetto e la locati
 *   👉 **[Augustas Serapinas: Nuove prospettive di lettura alla Fondazione Zeri]** *(Link al servizio)*
 *   👉 **[Jenna Sutela: Linguaggi marziani al Distretto Navile]** *(Link al servizio)*
 *   👉 **[Nora Turato: Performance e flussi informativi alla Biblioteca Universitaria]** *(Link al servizio)*
-*   👉 **[giulia deval: Le politiche della voce all'Ex Istituto di Zoologia]** *(Link al servizio)*
+*   👉 **[giulia deval: Le politiche della voce all'Ex Istituto di Zoologia]** *(https://github.com/fabioviggiano/artcity2026/blob/main/specialprojects/giulia%20deval.%20PITCH.%20Notes%20on%20vocal%20intonation%20%40%20ex%20Istituto%20di%20Zoologia.md)*
 *   👉 **[Ana Mendieta: Mimesi tra corpo e paesaggio a Palazzo Hercolani]** *(Link al servizio)*
