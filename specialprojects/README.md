@@ -1,4 +1,4 @@
-# Il Corpo della Lingua: Un viaggio nei progetti speciali di ART CITY Bologna 2026
+# Il Corpo della lingua: Un viaggio nei progetti speciali di ART CITY Bologna 2026
 
 Per la sua quattordicesima edizione, **ART CITY Bologna** stringe un legame inedito e profondo con l’**Alma Mater Studiorum – Università di Bologna**, trasformando i luoghi secolari del sapere in spazi di sperimentazione contemporanea. Curato da Caterina Molteni, il *Special Program* di quest'anno, intitolato **"Il corpo della lingua"**, sfida la concezione tradizionale dell'apprendimento: la conoscenza non è più un dato astratto, ma un'esperienza fisica, vocale e sensibile (*embodied knowledge*).
 
