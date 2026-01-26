@@ -58,16 +58,5 @@ GitHub renderizzerà automaticamente i punti di interesse sopra una mappa naviga
 ### 2. Il Calendario
 Scarica il file [data/calendar.ics](./data/calendar.ics) e importalo nel tuo Google Calendar o Apple Calendar per avere gli orari delle performance.
 
-## 📂 Struttura del Repository
-
-*   `maps/`: Contiene i file GeoJSON per la visualizzazione geografica.
-*   `data/`: Dataset in formato JSON e CSV con coordinate e dettagli (utile per sviluppatori).
-*   `resources/`: Materiale extra.
-
-## 🤝 Come contribuire
-Hai notato un errore negli orari di apertura dei luoghi universitari?
-1.  Apri una **Issue**.
-2.  O invia una **Pull Request** correggendo il file `data/events.json`.
-
 ## 📜 Licenza
 Questo progetto è distribuito sotto licenza MIT. I testi descrittivi delle mostre e i dati ufficiali appartengono ai rispettivi organizzatori.
