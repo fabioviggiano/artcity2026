@@ -1,5 +1,5 @@
-PITCH. Notes on Vocal Intonation è un
-progetto sviluppato come performancelecture e video saggio che esplora il
+**PITCH. Notes on Vocal Intonation** è un
+progetto sviluppato come performance lecture e video saggio che esplora il
 ruolo dell’intonazione – e in particolare
 dell’uso dei toni acuti e di quelli gravi –
 nella costruzione di strutture di potere.
