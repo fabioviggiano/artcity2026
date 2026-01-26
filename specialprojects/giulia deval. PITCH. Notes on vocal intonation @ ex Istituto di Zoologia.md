@@ -1,4 +1,6 @@
 *ex Istituto di Zoologia - via San Giacomo 9, Bologna*
+*Lezione performativa*
+
 
 **Orari della lezione performativa:**
 giovedì 5, venerdì 6, sabato 7 e domenica 8 febbraio alle h 15
