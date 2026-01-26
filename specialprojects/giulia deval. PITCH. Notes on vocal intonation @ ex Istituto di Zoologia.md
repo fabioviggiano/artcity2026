@@ -1,3 +1,12 @@
+**Orari della lezione performativa:**
+giovedì 5, venerdì 6, sabato 7 e domenica 8 febbraio alle h 15
+
+**Video, colore, suono, 19 min 30 sec**
+
+**Orari di apertura dell’Aula Alessandro Ghigi:
+giovedì 5, venerdì 6 e domenica 8 febbraio h 10-19
+sabato 7 febbraio h 10-23**
+
 **PITCH. Notes on Vocal Intonation** è un
 progetto sviluppato come performance lecture e video saggio che esplora il
 ruolo dell’intonazione – e in particolare
