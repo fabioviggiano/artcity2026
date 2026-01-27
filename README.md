@@ -28,8 +28,8 @@ Con la curatela di **Caterina Molteni**, sette progetti d'arte contemporanea ind
 
 ### 📍 I 7 Luoghi Simbolo
 Le opere sono ospitate in spazi storici e scientifici dell'Ateneo:
-*   **Aula Alessandro Ghigi** (ex Istituto di Zoologia)
-*   **Atrio dell’ex Facoltà di Ingegneria**
+*   **Aula Alessandro Ghigi** (ex Istituto di Zoologia)     
+*   [Atrio dell’ex Facoltà di Ingegneria](https://github.com/fabioviggiano/artcity2026/blob/main/specialprojects/Mike%20Kelley.%20Day%20Is%20Done.%20Extracurricular%20Activity%20Projective%20Reconstructions%20%40%20ex%20Facolt%C3%A0%20di%20Ingegneria.md)
 *   **Sala della Boschereccia** di Palazzo Hercolani
 *   **Teatro Anatomico** dell’Archiginnasio
 *   **Fondazione Federico Zeri**
