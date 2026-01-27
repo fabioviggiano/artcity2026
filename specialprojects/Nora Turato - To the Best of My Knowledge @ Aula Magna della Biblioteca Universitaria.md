@@ -5,7 +5,7 @@
 **To the Best of My Knowledge**
 
 <p align="center">
-  <img src="https://assets.culturabologna.it/d093b53b-6f2e-4ead-b979-2bd44d7de76c-pirici2.jpg/8d075bbdf33c5c27c9a5d26f5f5a6b5c7bdd1849.webp" width="50%">
+  <img src="https://assets.culturabologna.it/ac084b37-59e1-4f5f-825b-603bcb76ab23-turato2.jpg/8d075bbdf33c5c27c9a5d26f5f5a6b5c7bdd1849.webp" width="50%">
 </p>
 
 
