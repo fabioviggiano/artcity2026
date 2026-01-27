@@ -13,7 +13,8 @@ Durata: 30 minuti · Max 45 persone · Prenotazione obbligatoria
 
 --- 
 
-**Date e orari**
+## Date e orari
+
 - **Giovedì 5/02:** 15.00 · 15.45 · 16.30 · 17.15 · 18.00  
 - **Venerdì 6/02:** 15.45 · 16.30 · 17.15 · 18.00  
 - **Sabato 7/02:** 15.00 · 15.45 · 16.30 · 17.15 · **18.00**  
