@@ -5,7 +5,7 @@
 **Jenna Sutela**  
 
 <p align="center">
-  <img src="https://assets.culturabologna.it/cd096925-dd5c-4cb3-a0d9-cbe737af200b-serapinas2.jpg/8d075bbdf33c5c27c9a5d26f5f5a6b5c7bdd1849.webp" width="50%">
+  <img src="https://assets.culturabologna.it/9468e949-af77-4908-82bc-3871d5e9327e-sutela2.jpg/8d075bbdf33c5c27c9a5d26f5f5a6b5c7bdd1849.webp" width="50%">
 </p>  
 
 Le opere di **Jenna Sutela** esplorano sistemi aperti, dalla biologia all’informatica, indagando il rapporto tra coscienza e mondo fisico. In *nimiia cétiï* (2018), un computer osserva i movimenti di batteri estremofili al microscopio e genera uno script visivo simile a una calligrafia indecifrabile.  
