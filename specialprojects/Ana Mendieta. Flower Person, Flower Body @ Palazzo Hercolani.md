@@ -21,7 +21,7 @@ La forma viene lasciata alla deriva e rischia di essere dispersa dalla forza dei
 
 ---
 
-## Orari di apertura
+## Dat e orari di apertura
 
 - **Giovedì 5 Febbraio** 10.00–19.00  
 - **Venerdì 6 Febbraio** 10.00–19.00  
