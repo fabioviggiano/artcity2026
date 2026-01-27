@@ -38,7 +38,7 @@ Le opere sono ospitate in spazi storici e scientifici dell'Ateneo:
 
 ### 🎨 Gli Artisti
 *   Giulia Deval
-*   Mike Kelley
+*   [Mike Kelley](https://github.com/fabioviggiano/artcity2026/blob/main/specialprojects/Mike%20Kelley.%20Day%20Is%20Done.%20Extracurricular%20Activity%20Projective%20Reconstructions%20%40%20ex%20Facolt%C3%A0%20di%20Ingegneria.md)
 *   Ana Mendieta
 *   Alexandra Pirici
 *   Augustas Serapinas
