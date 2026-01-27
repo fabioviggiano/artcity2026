@@ -1,5 +1,5 @@
-## Biblioteca dell'Archiginnasioi ##  
-**Biblioteca dell'Archiginnasio | Teatro Anatomico Piazza Galvani, 1, Bologna**
+## Teatro Anatomico ##  
+**Biblioteca dell'Archiginnasio   Piazza Galvani, 1, Bologna**
 
 ### azione performativa ed elemento scultoreo
 
