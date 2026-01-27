@@ -1,4 +1,4 @@
-## Aula Magna della Biblioteca Universitaria##  
+## Aula Magna della Biblioteca Universitaria
 **Via Zamboni 33-35, Bologna**
 
 ### durational performance e installazione sonora ambientale
