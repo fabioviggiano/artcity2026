@@ -16,6 +16,7 @@ La presentazione dell’opera negli spazi razionalisti dell’ex Facoltà di Ing
 
 ---
 
-### Orari di apertura  
-- Giovedì 5, venerdì 6 e domenica 8 febbraio — h 10–19  
-- Sabato 7 febbraio — h 10–23  
+**Orari di apertura**
+- **Giovedì 5, venerdì 6 e domenica 8 febbraio:** 10.00–19.00  
+- **Sabato 7 febbraio:** 10.00–23.00
+
