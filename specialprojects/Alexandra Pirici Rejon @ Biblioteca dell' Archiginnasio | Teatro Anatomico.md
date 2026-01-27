@@ -3,7 +3,7 @@
 
 ### azione performativa ed elemento scultoreo
 
-**Ana Mendieta. Flower Person, Flower Body**
+**Alexandra Pirici. Rejoin**
 
 
 Alexandra Pirici intreccia danza, scultura, musica e parola in azioni e ambienti performativi che interrogano i modi in cui i corpi producono e trasmettono conoscenza.
