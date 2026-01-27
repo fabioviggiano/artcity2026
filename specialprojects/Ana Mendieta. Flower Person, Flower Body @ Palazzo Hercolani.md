@@ -1,4 +1,4 @@
-## Palazzo Hercolani ##  
+<img width="768" height="583" alt="image" src="https://github.com/user-attachments/assets/3d35e529-37a0-4fb9-8ce8-9f00fa5a969c" />## Palazzo Hercolani ##  
 **Strada Maggiore 45, Bologna**
 
 ### film Super 8mm trasferito su file digitale HD, colore, muto, 6 min 20 sec
@@ -6,7 +6,7 @@
 **Ana Mendieta. Flower Person, Flower Body**
 
 <p align="center">
-  <img src="https://assets.culturabologna.it/d093b53b-6f2e-4ead-b979-2bd44d7de76c-pirici2.jpg/8d075bbdf33c5c27c9a5d26f5f5a6b5c7bdd1849.webp" width="50%">
+  <img src="https://assets.culturabologna.it/6224c5c6-faff-4284-bace-d978aa129a3f-mendieta2.jpg/8d075bbdf33c5c27c9a5d26f5f5a6b5c7bdd1849.webp" width="50%">
 </p>
 
 
