@@ -21,6 +21,7 @@ La forma viene lasciata alla deriva e rischia di essere dispersa dalla forza dei
 
 ---
 
-### Orari di apertura  
-- Giovedì 5, venerdì 6 e domenica 8 febbraio — h 10–19  
-- Sabato 7 febbraio — h 10–23  
+### Orari di apertura
+
+- Giovedì 5, venerdì 6 e domenica 8 febbraio h 10-19
+- Sabato 7 febbraio h 10-23
