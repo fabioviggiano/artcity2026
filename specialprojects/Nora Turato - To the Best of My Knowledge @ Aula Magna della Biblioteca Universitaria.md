@@ -2,6 +2,7 @@
 **Via Zamboni 33-35, Bologna**
 
 ### durational performance e installazione sonora ambientale
+**To the Best of My Knowledge**
 
 <p align="center">
   <img src="https://assets.culturabologna.it/d093b53b-6f2e-4ead-b979-2bd44d7de76c-pirici2.jpg/8d075bbdf33c5c27c9a5d26f5f5a6b5c7bdd1849.webp" width="50%">
