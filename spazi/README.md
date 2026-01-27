@@ -1,0 +1,1 @@
+Herald St. Il nuovo spazio, oltre 100 mq al piano terra di un palazzo storico nel cuore del Ghetto Ebraico, va ad affiancare le sedi di Bethnal Green e Bloomsbury e sarà inaugurato in occasione di ART CITY 2026.
