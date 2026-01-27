@@ -1,11 +1,9 @@
 ## Aula Magna della Biblioteca Universitaria##  
 **Via Zamboni 33-35, Bologna**
 
-### durational performance e installazione sonora ambientale sec
+### durational performance e installazione sonora ambientale
 
 **Nora Turato. To the Best of My Knowledge*
-
-## durational performance e installazione sonora ambientale
 
 La ricerca di Nora Turato indaga l’esperienza collettiva del flusso incessante di informazioni che  caratterizza la contemporaneità. Attraverso una pratica che sfrutta la natura effimera, mutevole e performativa del linguaggio, l’artista articola performance, video e opere testuali e grafiche in cui la parola diventa materia plastica, sonora e concettuale.
 
