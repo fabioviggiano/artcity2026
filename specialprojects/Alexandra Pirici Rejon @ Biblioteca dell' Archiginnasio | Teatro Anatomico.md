@@ -1,3 +1,11 @@
+## Palazzo Hercolani ##  
+**Biblioteca dell'Archiginnasio | Teatro Anatomico Piazza Galvani, 1, 40124 Bologna ***
+
+### film Super 8mm trasferito su file digitale HD, colore, muto, 6 min 20 sec
+
+**Ana Mendieta. Flower Person, Flower Body**
+
+
 Alexandra Pirici intreccia danza, scultura, musica e parola in azioni e ambienti performativi che interrogano i modi in cui i corpi producono e trasmettono conoscenza.
 
 Considerata una delle voci più autorevoli della performance contemporanea, ha indagato le potenzialità insite nei processi di embodied knowledge (sapere incarnato). Per Pirici, la corporeità è insieme archivio e dispositivo dinamico di risignificazione: un campo di azione in cui il corpo riattiva tracce di esperienze passate, ma si afferma soprattutto come strumento primario di conoscenza, capace di generare nuove interpretazioni e promuovere forme di connessione e partecipazione. Come sostiene l’artista: «Muoversi in modo differente significa pensare in modo differente» (Moving differently is thinking differently).
