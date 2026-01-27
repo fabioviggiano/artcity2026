@@ -1,4 +1,5 @@
-<img width="768" height="583" alt="image" src="https://github.com/user-attachments/assets/3d35e529-37a0-4fb9-8ce8-9f00fa5a969c" />## Palazzo Hercolani ##  
+
+## Palazzo Hercolani ##  
 **Strada Maggiore 45, Bologna**
 
 ### film Super 8mm trasferito su file digitale HD, colore, muto, 6 min 20 sec
