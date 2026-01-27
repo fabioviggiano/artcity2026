@@ -8,6 +8,7 @@
 Ana Mendieta ha indagato il legame tra corpo e natura attraverso pratiche artistiche diverse, usando il proprio corpo per ricucire un’identità segnata dall’esilio e dalla separazione dalla terra d’origine. La sua ricerca ridimensiona il ruolo umano, riconoscendo alla natura una centralità e un’intelligenza proprie.
 
 Rielaborando Land Art, Minimalismo e Arte Processuale, Mendieta realizza opere effimere, in cui il corpo si fonde con l’ambiente e si trasforma con esso. In Flower Person, Flower Body, una figura floreale affidata all’acqua evoca un rituale funebre e si abbandona serenamente ai ritmi naturali.
+
 ---
 
 ## Dat e orari di apertura
