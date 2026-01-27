@@ -5,6 +5,8 @@
 
 **Alexandra Pirici. Rejoin**
 
+[![App Platorm](https://doimages.nyc3.cdn.digitaloceanspaces.com/002Blog/0-BLOG-BANNERS/app_platform.png)](https://www.digitalocean.com/products/app-platform)
+
 Alexandra Pirici usa il corpo come strumento di conoscenza per superare le separazioni tra umano, natura e tecnologia. In Rejoin trasforma l’osservazione anatomica in un processo di riconnessione, proponendo una visione fluida e metamorfica dell’esistenza in cui il sapere è incarnato, relazionale e più-che-umano.
 
 **Azione performativa**  
