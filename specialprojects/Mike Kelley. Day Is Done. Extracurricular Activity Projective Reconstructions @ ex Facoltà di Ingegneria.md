@@ -5,6 +5,11 @@
 
 **Mike Kelley. Day Is Done. Extracurricular Activity Projective Reconstructions**
 
+<p align="center">
+  <img src="https://assets.culturabologna.it/d093b53b-6f2e-4ead-b979-2bd44d7de76c-pirici2.jpg/8d075bbdf33c5c27c9a5d26f5f5a6b5c7bdd1849.webp" width="50%">
+</p>
+
+
 Le opere di Mike Kelley indagano i rapporti tra potere, psiche e istituzioni, concentrandosi sui sistemi educativi come strutture repressive capaci di plasmare identità e comportamenti. *Day Is Done* è una raccolta di **31 cortometraggi musicali** ispirati alle attività extracurricolari scolastiche.
 
 Attraverso un metodo quasi antropologico, Kelley rielabora fotografie d’archivio di recite, concerti, rituali e feste studentesche, trasformandole in un carnevale visivo e sonoro. Nello spazio allegorico della scuola, le attività extracurricolari diventano “rituali accettati di devianza”, in cui obbedienza e controllo sono temporaneamente sospesi e affiorano desideri, frustrazioni e impulsi repressi.
