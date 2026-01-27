@@ -12,7 +12,6 @@
 
 ⭐ 🕒 **15:00 · 15.45 · 16.30 · 17.15 · 18.00**  
 📍  Teatro Anatomico - Biblioteca dell'Archiginnasio, Piazza Galvani, 1, Bologna  
-****  
 [Alexandra Pirici - Rejoin](https://github.com/fabioviggiano/artcity2026/blob/main/specialprojects/Alexandra%20Pirici%20Rejon%20%40%20Biblioteca%20dell'%20Archiginnasio%20-%20Teatro%20Anatomico.md)
 
 *Azione performativa ed elemento scultoreo*  
