@@ -3,8 +3,7 @@
 
 ### Proiezione video
 
-**Mike Kelley  
-Day Is Done. Extracurricular Activity Projective Reconstructions**
+**Mike Kelley. Day Is Done. Extracurricular Activity Projective Reconstructions**
 
 Le opere di Mike Kelley indagano i rapporti tra potere, psiche e istituzioni, concentrandosi sui sistemi educativi come strutture repressive capaci di plasmare identità e comportamenti. *Day Is Done* è una raccolta di **31 cortometraggi musicali** ispirati alle attività extracurricolari scolastiche.
 
