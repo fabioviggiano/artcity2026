@@ -23,7 +23,7 @@ La forma viene lasciata alla deriva e rischia di essere dispersa dalla forza dei
 
 ## Orari di apertura
 
-- **Giovedì 5 Febbraio 10-19:** 10.00–19.00  
+- **Giovedì 5 Febbraio** 10.00–19.00  
 - **Venerdì 6 Febbraio** 10.00–19.00  
 - **Sabato 7 Febbraio** 10:00 -23:00
 - **Domenica 8 Febbraioé** 10:00 -19:00
