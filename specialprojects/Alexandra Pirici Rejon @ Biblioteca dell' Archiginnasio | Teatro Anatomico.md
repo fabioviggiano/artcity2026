@@ -7,21 +7,15 @@
 
 Alexandra Pirici usa il corpo come strumento di conoscenza per superare le separazioni tra umano, natura e tecnologia. In Rejoin trasforma l’osservazione anatomica in un processo di riconnessione, proponendo una visione fluida e metamorfica dell’esistenza in cui il sapere è incarnato, relazionale e più-che-umano.
 
-Orari dell’azione performativa:
-Eseguita da Michelle Cheung, Alexandra Pirici
+**Azione performativa**  
+Eseguita da *Michelle Cheung* (Alexandra Pirici)  
+Durata: 30 minuti · Max 45 persone · Prenotazione obbligatoria
 
-*durata 30 minuti*
+**Date e orari**
+- **Giovedì 5/02:** 15.00 · 15.45 · 16.30 · 17.15 · 18.00  
+- **Venerdì 6/02:** 15.45 · 16.30 · 17.15 · 18.00  
+- **Sabato 7/02:** 15.00 · 15.45 · 16.30 · 17.15 · 18.00  
+- **Domenica 8/02:** 15.00 · 15.45 · 16.30 · 17.15 · 18.00  
 
-per max 45 persone con prenotazione obbligatoria
-
-Le azioni performative si svolgono nei seguenti giorni e orari:
-
-giovedì 5 febbraio: h 15; h 15.45; h 16.30; h 17.15; h 18
-
-venerdì 6 febbraio: h 15.45; h 16.30; h 17.15; h 18
-
-sabato 7 febbraio: h 15; h 15.45; h 16.30; h 17.15; h 18
-
-domenica 8 febbraio: h 15; h 15.45; h 16.30; h 17.15; h 18
-
-Si richiede di arrivare 15 minuti in anticipo rispetto all'orario indicato, le porte si chiuderanno 5 minuti prima dell'inizio e i posti rimasti liberi verranno ceduti al pubblico in attesa. Non è possibile entrare/uscire durante l'azione.
+Arrivo richiesto 15 minuti prima. Porte chiuse 5 minuti prima dell’inizio.  
+Non è consentito entrare o uscire durante l’azione.
