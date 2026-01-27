@@ -1,6 +1,6 @@
 ## Giovedì 5 Febbraio
 
-🕒 **15:00 · 15.45 · 16.30 · 17.15 · 18.00**  
+🕒 **15:00**  
 📍 ex Istituto di Zoologia, Via San Giacomo 9, Bologna  
 **Giulia Deval** - *Video, colore, suono* (19 min 30 sec)  
 *PITCH. Notes on vocal intonation*
@@ -20,7 +20,7 @@ Eseguita da *Michelle Cheung* (Alexandra Pirici) · Durata: 30 min · Max 45 per
 
 ## Venerdì 6 Febbraio
 
-🕒 **15:00 · 15.45 · 16.30 · 17.15 · 18.00**  
+🕒 **15:00**  
 📍 ex Istituto di Zoologia, Via San Giacomo 9, Bologna  
 **Giulia Deval** - *Video, colore, suono* (19 min 30 sec)  
 *PITCH. Notes on vocal intonation*
@@ -40,7 +40,7 @@ Eseguita da *Michelle Cheung* (Alexandra Pirici) · Durata: 30 min · Max 45 per
 
 ## Sabato 7 Febbraio
 
-🕒 **15:00 · 15.45 · 16.30 · 17.15 · 18.00**  
+🕒 **15:00**  
 📍 ex Istituto di Zoologia, Via San Giacomo 9, Bologna  
 **Giulia Deval** - *Video, colore, suono* (19 min 30 sec)  
 *PITCH. Notes on vocal intonation*
@@ -60,7 +60,7 @@ Eseguita da *Michelle Cheung* (Alexandra Pirici) · Durata: 30 min · Max 45 per
 
 ## Domenica 8 Febbraio
 
-🕒 **15:00 · 15.45 · 16.30 · 17.15 · 18.00**  
+🕒 **15:00**  
 📍 ex Istituto di Zoologia, Via San Giacomo 9, Bologna  
 **Giulia Deval** - *Video, colore, suono* (19 min 30 sec)  
 *PITCH. Notes on vocal intonation*
