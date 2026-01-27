@@ -34,10 +34,8 @@ Le opere sono ospitate in spazi storici e scientifici dell'Ateneo:
 *   [**Teatro Anatomico dell’Archiginnasio**]()
 *   [**Fondazione Federico Zeri**]()
 *   [**Laboratorio didattico del Distretto Navile**]()
-*   [**Teatro Anatomico dell’Archiginnasio**]()   
-
-
-*   **Aula Magna** della Biblioteca Universitaria
+*   [**Teatro Anatomico dell’Archiginnasio**]()  
+*   [**Aula Magna della Biblioteca Universitaria**]()
 
 ### 🎨 Gli Artisti
 *   Giulia Deval
