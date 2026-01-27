@@ -1,23 +1,24 @@
-# Il Corpo della lingua: Un viaggio nei progetti speciali di ART CITY Bologna 2026
+# Il Corpo della Lingua: Special Projects di ART CITY Bologna 2026
 
-Per la sua quattordicesima edizione, **ART CITY Bologna** stringe un legame inedito e profondo con l’**Alma Mater Studiorum – Università di Bologna**, trasformando i luoghi secolari del sapere in spazi di sperimentazione contemporanea. Curato da Caterina Molteni, il *Special Program* di quest'anno, intitolato **"Il corpo della lingua"**, sfida la concezione tradizionale dell'apprendimento: la conoscenza non è più un dato astratto, ma un'esperienza fisica, vocale e sensibile (*embodied knowledge*).
+Per la quattordicesima edizione, **ART CITY Bologna** trasforma i luoghi storici dell’**Alma Mater Studiorum – Università di Bologna** in spazi di sperimentazione contemporanea. Curato da **Caterina Molteni**, il *Special Program* **"Il corpo della lingua"** esplora la conoscenza come esperienza fisica, vocale e sensibile (*embodied knowledge*), superando la concezione tradizionale dell’apprendimento.  
 
-Sette artisti internazionali abitano altrettanti luoghi simbolo dell'ateneo, scardinando le gerarchie tra chi insegna e chi apprende, tra umano e non umano.
+Sette artisti internazionali abitano altrettanti luoghi simbolo dell’ateneo, scardinando le gerarchie tra umano e non umano, tra docente e studente, tra corpo e linguaggio.
 
-Dall'**Ex Facoltà di Ingegneria**, dove il monumentale video-saggio di **Mike Kelley** rilegge i rituali scolastici come un carnevale dell'inconscio, si passa alla **Fondazione Federico Zeri**, dove **Augustas Serapinas** invita il pubblico a "elevarsi" fisicamente su sedute non convenzionali per consultare i libri. La scienza diventa poesia nel **Teatro Anatomico**, con l'azione performativa di **Alexandra Pirici** che ricuce lo strappo tra corpo e spirito, e al **Distretto Navile**, dove **Jenna Sutela** immagina dialoghi alieni attraverso il movimento dei batteri.
+---
 
-La voce è protagonista assoluta: **Nora Turato** trasforma il sovraccarico informativo in ritmo nell'**Aula Magna della Biblioteca Universitaria**, mentre **giulia deval** indaga le strutture di potere nascoste nell'intonazione vocale all'**Ex Istituto di Zoologia**. Infine, nella cornice illusionistica di Palazzo Hercolani, **Ana Mendieta** ci riporta alla radice organica dell'essere con la sua fusione totale tra corpo e natura.
+## I progetti e le location
 
-Di seguito, i link per esplorare nel dettaglio ogni singolo progetto e la location che lo ospita.
+| Artista | Opera | Location | Link approfondimento |
+|---------|-------|---------|--------------------|
+| **Mike Kelley** | *Day Is Done. Extracurricular Activity Projective Reconstructions* | Ex Facoltà di Ingegneria | [Vai al progetto](https://github.com/fabioviggiano/artcity2026/blob/main/specialprojects/Mike%20Kelley.%20Day%20Is%20Done.%20Extracurricular%20Activity%20Projective%20Reconstructions%20%40%20ex%20Facolt%C3%A0%20di%20Ingegneria.md) |
+| **Alexandra Pirici** | *Rejoin* | Teatro Anatomico dell’Archiginnasio | [Vai al progetto](https://github.com/fabioviggiano/artcity2026/blob/main/specialprojects/Alexandra%20Pirici%20Rejon%20%40%20Biblioteca%20dell'%20Archiginnasio%20-%20Teatro%20Anatomico.md) |
+| **Augustas Serapinas** | *Chair for the Invigilator* | Fondazione Federico Zeri | [Vai al progetto](https://github.com/fabioviggiano/artcity2026/blob/main/specialprojects/Augustas%20Serapinas.%20Chair%20for%20the%20Invigilator%20@%20Fondazione%20Federico%20Zeri.md) |
+| **Jenna Sutela** | *nimiia cétiï* | Laboratorio didattico del Distretto Navile | [Vai al progetto](https://github.com/fabioviggiano/artcity2026/blob/main/specialprojects/Laboratorio%20Didattico%20Navile.md) |
+| **Nora Turato** | *To the Best of My Knowledge* | Aula Magna della Biblioteca Universitaria | [Vai al progetto](https://github.com/fabioviggiano/artcity2026/blob/main/specialprojects/Nora%20Turato%20-%20To%20the%20Best%20of%20My%20Knowledge%20%40%20Aula%20Magna%20della%20Biblioteca%20Universitaria.md) |
+| **giulia deval** | *Notes on vocal intonation* | Ex Istituto di Zoologia | [Vai al progetto](https://github.com/fabioviggiano/artcity2026/blob/main/specialprojects/giulia%20deval.%20PITCH.%20Notes%20on%20vocal%20intonation%20%40%20ex%20Istituto%20di%20Zoologia.md) |
+| **Ana Mendieta** | *Flower Person, Flower Body* | Palazzo Hercolani | [Vai al progetto](https://github.com/fabioviggiano/artcity2026/blob/main/specialprojects/Ana%20Mendieta.%20Flower%20Person%2C%20Flower%20Body%20%40%20Palazzo%20Hercolani.md) |
 
-***
+---
 
-### Approfondimenti ai singoli progetti:
+Questo programma speciale mette in dialogo **arte contemporanea, corpo e linguaggio**, animando luoghi storici dell’Ateneo attraverso pratiche immersive, performative e interattive. Ogni progetto invita il pubblico a vivere la conoscenza come esperienza corporea e sensoriale, aprendo nuovi orizzonti espressivi.
 
-*   👉 **[Mike Kelley: L'inconscio scolastico e l'architettura razionalista]** *(Link al servizio)*
-*   👉 **[Alexandra Pirici: "Rejoin" al Teatro Anatomico dell'Archiginnasio]** *(Link al servizio)*
-*   👉 **[Augustas Serapinas: Nuove prospettive di lettura alla Fondazione Zeri]** *(Link al servizio)*
-*   👉 **[Jenna Sutela: Linguaggi marziani al Distretto Navile]** *(Link al servizio)*
-*   👉 **[Nora Turato: Performance e flussi informativi alla Biblioteca Universitaria]** *(Link al servizio)*
-*   👉 *[giulia deval: Le politiche della voce all'Ex Istituto di Zoologia](https://github.com/fabioviggiano/artcity2026/blob/main/specialprojects/giulia%20deval.%20PITCH.%20Notes%20on%20vocal%20intonation%20%40%20ex%20Istituto%20di%20Zoologia.md)*
-*   👉 **[Ana Mendieta: Mimesi tra corpo e paesaggio a Palazzo Hercolani]** *(Link al servizio)*
