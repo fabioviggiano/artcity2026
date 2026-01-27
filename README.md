@@ -36,27 +36,7 @@ Le opere sono ospitate in spazi storici e scientifici dell'Ateneo:
 *   [**Laboratorio didattico del Distretto Navile**](https://github.com/fabioviggiano/artcity2026/blob/main/specialprojects/Laboratorio%20Didattico%20Navile.md)
 *   [**Aula Magna della Biblioteca Universitaria**](https://github.com/fabioviggiano/artcity2026/blob/main/specialprojects/Nora%20Turato%20-%20To%20the%20Best%20of%20My%20Knowledge%20%40%20Aula%20Magna%20della%20Biblioteca%20Universitaria.md)
 
-### 🎨 Gli Artisti
-*   Giulia Deval
-*   [Mike Kelley](https://github.com/fabioviggiano/artcity2026/blob/main/specialprojects/Mike%20Kelley.%20Day%20Is%20Done.%20Extracurricular%20Activity%20Projective%20Reconstructions%20%40%20ex%20Facolt%C3%A0%20di%20Ingegneria.md)
-*   Ana Mendieta
-*   Alexandra Pirici
-*   Augustas Serapinas
-*   Jenna Sutela
-*   Nora Turato
-
----
-
-## 🚀 Quick Start (Pronti, via!)
-
-Se vuoi esplorare questi luoghi (e altri eventi Off) senza perderti:
-
-### 1. La Mappa Interattiva
-Vai al file [maps/art-city.geojson](./maps/art-city.geojson).
-GitHub renderizzerà automaticamente i punti di interesse sopra una mappa navigabile.
-
-### 2. Il Calendario
-Scarica il file [data/calendar.ics](./data/calendar.ics) e importalo nel tuo Google Calendar o Apple Calendar per avere gli orari delle performance.
+## 🚀 Quick Start 
 
 ## 📜 Licenza
 Questo progetto è distribuito sotto licenza MIT. I testi descrittivi delle mostre e i dati ufficiali appartengono ai rispettivi organizzatori.
