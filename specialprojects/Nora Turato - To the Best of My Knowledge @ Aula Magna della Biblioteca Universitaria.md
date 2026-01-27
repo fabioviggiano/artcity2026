@@ -1,4 +1,11 @@
-durational performance e installazione sonora ambientale
+## Aula Magna della Biblioteca Universitaria##  
+**Via Zamboni 33-35, Bologna**
+
+### durational performance e installazione sonora ambientale sec
+
+**Nora Turato. To the Best of My Knowledge*
+
+## durational performance e installazione sonora ambientale
 
 La ricerca di Nora Turato indaga l’esperienza collettiva del flusso incessante di informazioni che  caratterizza la contemporaneità. Attraverso una pratica che sfrutta la natura effimera, mutevole e performativa del linguaggio, l’artista articola performance, video e opere testuali e grafiche in cui la parola diventa materia plastica, sonora e concettuale.
 
@@ -16,8 +23,12 @@ grado primordiale di comunicazione in cui Vico individua la vera radice poetica 
 Turato si riappropria così di una dimensione linguistica che riconosce nel corpo lo strumento attraverso cui
 incrinare cliché comunicativi e formule preconfezionate, e restituire alla parola la sua dimensione corporea, lirica e vitale.
 
-Orari della performance:
+## Orari della performance:
 giovedì 5, venerdì 6, sabato 7 e domenica 8 febbraio h 16.30 - 18.30
+
+## Orari di apertura della Biblioteca Universitaria:
+giovedì 5, venerdì 6 e domenica 8 febbraio h 10-19
+sabato 7 febbraio h 10-23
 
 Orari di apertura della Biblioteca Universitaria:
 giovedì 5, venerdì 6 e domenica 8 febbraio h 10-19
