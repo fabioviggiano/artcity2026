@@ -1,4 +1,4 @@
-## ex Facoltà di Ingegneria  
+<img width="768" height="576" alt="image" src="https://github.com/user-attachments/assets/84fcf4f3-17c8-47e5-9189-531b55a75c7f" />## ex Facoltà di Ingegneria  
 **Viale del Risorgimento 2, Bologna**
 
 ### Proiezione video
@@ -6,7 +6,7 @@
 **Mike Kelley. Day Is Done. Extracurricular Activity Projective Reconstructions**
 
 <p align="center">
-  <img src="https://assets.culturabologna.it/d093b53b-6f2e-4ead-b979-2bd44d7de76c-pirici2.jpg/8d075bbdf33c5c27c9a5d26f5f5a6b5c7bdd1849.webp" width="50%">
+  <img src="https://assets.culturabologna.it/4202fdd0-cc86-432b-aa4b-e68212270511-kelley2.jpg/8d075bbdf33c5c27c9a5d26f5f5a6b5c7bdd1849.webp" width="50%">
 </p>
 
 
