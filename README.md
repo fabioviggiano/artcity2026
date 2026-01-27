@@ -34,7 +34,7 @@ Le opere sono ospitate in spazi storici e scientifici dell'Ateneo:
 *   [**Teatro Anatomico dell’Archiginnasio**](https://github.com/fabioviggiano/artcity2026/blob/main/specialprojects/Alexandra%20Pirici%20Rejon%20%40%20Biblioteca%20dell'%20Archiginnasio%20-%20Teatro%20Anatomico.md)
 *   [**Fondazione Federico Zeri**](https://github.com/fabioviggiano/artcity2026/blob/main/specialprojects/Augustas%20Serapinas.%20Chair%20for%20the%20Invigilator%20@%20Fondazione%20Federico%20Zeri.md)
 *   [**Laboratorio didattico del Distretto Navile**](https://github.com/fabioviggiano/artcity2026/blob/main/specialprojects/Laboratorio%20Didattico%20Navile.md)
-*   [**Aula Magna della Biblioteca Universitaria**]()
+*   [**Aula Magna della Biblioteca Universitaria**](https://github.com/fabioviggiano/artcity2026/blob/main/specialprojects/Nora%20Turato%20-%20To%20the%20Best%20of%20My%20Knowledge%20%40%20Aula%20Magna%20della%20Biblioteca%20Universitaria.md)
 
 ### 🎨 Gli Artisti
 *   Giulia Deval
