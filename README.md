@@ -34,7 +34,6 @@ Le opere sono ospitate in spazi storici e scientifici dell'Ateneo:
 *   [**Teatro Anatomico dell’Archiginnasio**](https://github.com/fabioviggiano/artcity2026/blob/main/specialprojects/Alexandra%20Pirici%20Rejon%20%40%20Biblioteca%20dell'%20Archiginnasio%20-%20Teatro%20Anatomico.md)
 *   [**Fondazione Federico Zeri**](https://github.com/fabioviggiano/artcity2026/blob/main/specialprojects/Augustas%20Serapinas.%20Chair%20for%20the%20Invigilator%20@%20Fondazione%20Federico%20Zeri.md)
 *   [**Laboratorio didattico del Distretto Navile**](https://github.com/fabioviggiano/artcity2026/blob/main/specialprojects/Laboratorio%20Didattico%20Navile.md)
-*   [**Teatro Anatomico dell’Archiginnasio**](https://github.com/fabioviggiano/artcity2026/blob/main/specialprojects/Alexandra%20Pirici%20Rejon%20%40%20Biblioteca%20dell'%20Archiginnasio%20-%20Teatro%20Anatomico.md)  
 *   [**Aula Magna della Biblioteca Universitaria**]()
 
 ### 🎨 Gli Artisti
