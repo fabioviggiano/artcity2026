@@ -10,7 +10,7 @@
 **Nora Turato** - *To the Best of My Knowledge* (**Special Project**)  
 *Durational performance e installazione sonora ambientale*
 
-⭐ 🕒 **15:00 · 15.45 · 16.30 · 17.15 · 18.00**  
+🕒 **15:00 · 15.45 · 16.30 · 17.15 · 18.00**  
 📍  Teatro Anatomico - Biblioteca dell'Archiginnasio, Piazza Galvani, 1, Bologna  
 [Alexandra Pirici - Rejoin](https://github.com/fabioviggiano/artcity2026/blob/main/specialprojects/Alexandra%20Pirici%20Rejon%20%40%20Biblioteca%20dell'%20Archiginnasio%20-%20Teatro%20Anatomico.md)
 
@@ -32,8 +32,8 @@ Eseguita da *Michelle Cheung* (Alexandra Pirici) · Durata: 30 min · Max 45 per
 *Durational performance e installazione sonora ambientale*
 
 ⭐ 🕒 **15:45 · 16.30 · 17.15 · 18.00**  
-📍 Biblioteca dell'Archiginnasio, Piazza Galvani, 1, Bologna  
-**Alexandra Pirici - Rejoin**  
+📍  Teatro Anatomico - Biblioteca dell'Archiginnasio, Piazza Galvani, 1, Bologna  
+[Alexandra Pirici - Rejoin](https://github.com/fabioviggiano/artcity2026/blob/main/specialprojects/Alexandra%20Pirici%20Rejon%20%40%20Biblioteca%20dell'%20Archiginnasio%20-%20Teatro%20Anatomico.md)
 *Azione performativa ed elemento scultoreo*  
 Eseguita da *Michelle Cheung* (Alexandra Pirici) · Durata: 30 min · Max 45 persone · **Prenotazione obbligatoria**  
 
@@ -52,8 +52,8 @@ Eseguita da *Michelle Cheung* (Alexandra Pirici) · Durata: 30 min · Max 45 per
 *Durational performance e installazione sonora ambientale*
 
 ⭐ 🕒 **15:00 · 15.45 · 16.30 · 17.15 · 18.00**  
-📍 Biblioteca dell'Archiginnasio, Piazza Galvani, 1, Bologna  
-**Alexandra Pirici - Rejoin**  
+📍  Teatro Anatomico - Biblioteca dell'Archiginnasio, Piazza Galvani, 1, Bologna  
+[Alexandra Pirici - Rejoin](https://github.com/fabioviggiano/artcity2026/blob/main/specialprojects/Alexandra%20Pirici%20Rejon%20%40%20Biblioteca%20dell'%20Archiginnasio%20-%20Teatro%20Anatomico.md)
 *Azione performativa ed elemento scultoreo*  
 Eseguita da *Michelle Cheung* (Alexandra Pirici) · Durata: 30 min · Max 45 persone · **Prenotazione obbligatoria**  
 
@@ -72,7 +72,7 @@ Eseguita da *Michelle Cheung* (Alexandra Pirici) · Durata: 30 min · Max 45 per
 *Durational performance e installazione sonora ambientale*
 
 ⭐ 🕒 **15:00 · 15.45 · 16.30 · 17.15 · 18.00**  
-📍 Biblioteca dell'Archiginnasio, Piazza Galvani, 1, Bologna  
-**Alexandra Pirici - Rejoin**  
+📍  Teatro Anatomico - Biblioteca dell'Archiginnasio, Piazza Galvani, 1, Bologna  
+[Alexandra Pirici - Rejoin](https://github.com/fabioviggiano/artcity2026/blob/main/specialprojects/Alexandra%20Pirici%20Rejon%20%40%20Biblioteca%20dell'%20Archiginnasio%20-%20Teatro%20Anatomico.md)
 *Azione performativa ed elemento scultoreo*  
 Eseguita da *Michelle Cheung* (Alexandra Pirici) · Durata: 30 min · Max 45 persone · **Prenotazione obbligatoria**  
