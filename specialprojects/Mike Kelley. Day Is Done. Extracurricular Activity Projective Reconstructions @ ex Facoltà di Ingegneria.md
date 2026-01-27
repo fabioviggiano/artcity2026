@@ -1,4 +1,4 @@
-<img width="768" height="576" alt="image" src="https://github.com/user-attachments/assets/84fcf4f3-17c8-47e5-9189-531b55a75c7f" />## ex Facoltà di Ingegneria  
+## ex Facoltà di Ingegneria  
 **Viale del Risorgimento 2, Bologna**
 
 ### Proiezione video
