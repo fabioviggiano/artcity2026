@@ -1,4 +1,4 @@
-# Art City 26 - Nell' Univesrsità
+# Art City 26 - Nell' Università
 
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
 ![Event](https://img.shields.io/badge/Event-Art_City_2026-blue)
