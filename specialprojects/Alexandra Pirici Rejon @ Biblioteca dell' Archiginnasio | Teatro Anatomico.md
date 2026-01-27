@@ -1,7 +1,7 @@
-## Palazzo Hercolani ##  
-**Biblioteca dell'Archiginnasio | Teatro Anatomico Piazza Galvani, 1, 40124 Bologna ***
+## Biblioteca dell'Archiginnasioi ##  
+**Biblioteca dell'Archiginnasio | Teatro Anatomico Piazza Galvani, 1, Bologna**
 
-### film Super 8mm trasferito su file digitale HD, colore, muto, 6 min 20 sec
+### azione performativa ed elemento scultoreo
 
 **Ana Mendieta. Flower Person, Flower Body**
 
