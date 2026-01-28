@@ -40,10 +40,10 @@ Le opere sono ospitate in spazi storici e scientifici dell'Ateneo:
 
 Guida giorno per giorno:
 
-- Giovedì 5
-- [Venerdì 6]([url](https://github.com/fabioviggiano/artcity2026/blob/main/giornoPerGiorno/02.06%20-%20Venerd%C3%AC.md))
-- Sabato 7
-- Domnenica 8
+*   [**Giovedì 5**](https://github.com/fabioviggiano/artcity2026/blob/main/giornoPerGiorno/02.05%20-%20Gioved%C3%AC.md)
+*   [**Venerdì 6**](https://github.com/fabioviggiano/artcity2026/blob/main/giornoPerGiorno/02.06%20-%20Venerd%C3%AC.md)
+*   [**Sabato 7**](https://github.com/fabioviggiano/artcity2026/blob/main/giornoPerGiorno/02.07%20-%20Sabato%20(Art%20City%20Night)%2Cmd)*   
+* [**Domenica 8**](https://github.com/fabioviggiano/artcity2026/blob/main/giornoPerGiorno/02.08%20-%20Domenica.md)
 
 ## 📜 Licenza
 Questo progetto è distribuito sotto licenza MIT. I testi descrittivi delle mostre e i dati ufficiali appartengono ai rispettivi organizzatori.
