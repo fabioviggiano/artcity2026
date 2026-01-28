@@ -21,8 +21,8 @@ Eseguita da *Michelle Cheung* (Alexandra Pirici) · Durata: 30 min · Max 45 per
 PAM! SPAM! SPAM!
 *proiezione sarà accompagnata dalle sonorizzazioni live di Gianmarco Leprozo aka PRESENTE*
 
-
-🕒 INAUGURAZIONE **18:30 - 22:00*
+INAUGURAZIONE
+🕒 **18:30 - 22:00**
 📍 Baumhaus, Via Jacopo Barozzi, 3/P
 IT ALL STARTS WITH A PUSH di Margherita Caprilli
 
