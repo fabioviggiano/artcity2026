@@ -9,18 +9,18 @@ Recap giornaliero con orari, luoghi e informazioni essenziali sugli eventi.
 ### 🖼️ Mostra
 
 🕒 **10:00 – 19:00**
-📍 *Laboratorio didattico del Distretto Navile*, Via Gobetti 9, Bologna
-**Jenna Sutela — *nimiia cétiï***
-*Video HD, colore, suono · 12’02”*
+📍 *Laboratorio didattico del Distretto Navile*, Via Gobetti 9, Bologna  
+**Jenna Sutela — *nimiia cétiï***  
+*Video HD, colore, suono · 12’02”*  
 
 ---
 
-### 🎤 Lezione performativa
+### 🎤 Lezione performativa  
 
-🕒 **15:00**
-📍 *Ex Istituto di Zoologia*, Via San Giacomo 9, Bologna
-**Giulia Deval** — *Video, colore, suono · 19’30”*
-*PITCH. Notes on vocal intonation*
+🕒 **15:00**  
+📍 *Ex Istituto di Zoologia*, Via San Giacomo 9, Bologna  
+**Giulia Deval** — *Video, colore, suono · 19’30”*  
+*PITCH. Notes on vocal intonation*  
 
 ---
 
