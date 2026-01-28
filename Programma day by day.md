@@ -1,5 +1,10 @@
 ## Giovedì 5 Febbraio
 
+🕒 10-19
+📍 Laboratorio didattico del Distretto Navile, via Gobetti 9 Bologna
+**Jenna Sutela. nimiia cétiï**
+*video in HD, colore, suono, 12 min 02 sec*
+
 ### 🕒 15:00 — Lezione performativa
 📍 *Ex Istituto di Zoologia*, Via San Giacomo 9, Bologna  
 **Giulia Deval** — *Video, colore, suono* (19 min 30 sec)  
@@ -45,6 +50,11 @@ di *Margherita Caprilli*
 
 ## Venerdì 6 Febbraio
 
+🕒 10-19
+📍 Laboratorio didattico del Distretto Navile, via Gobetti 9 Bologna
+**Jenna Sutela. nimiia cétiï**
+*video in HD, colore, suono, 12 min 02 sec*
+
 🕒 Lezione performativa: **15:00**  
 📍 ex Istituto di Zoologia, Via San Giacomo 9, Bologna  
 **Giulia Deval** - *Video, colore, suono* (19 min 30 sec)  
@@ -64,6 +74,11 @@ Eseguita da *Michelle Cheung* (Alexandra Pirici) · Durata: 30 min · Max 45 per
 ---
 
 ## Sabato 7 Febbraio
+
+🕒 10-19
+📍 Laboratorio didattico del Distretto Navile, via Gobetti 9 Bologna
+**Jenna Sutela. nimiia cétiï**
+*video in HD, colore, suono, 12 min 02 sec*
 
 🕒 Lezione performativa: **15:00**  
 📍 ex Istituto di Zoologia, Via San Giacomo 9, Bologna  
@@ -85,6 +100,12 @@ Eseguita da *Michelle Cheung* (Alexandra Pirici) · Durata: 30 min · Max 45 per
 
 ## Domenica 8 Febbraio
 
+🕒 10-19
+📍 Laboratorio didattico del Distretto Navile, via Gobetti 9 Bologna
+**Jenna Sutela. nimiia cétiï**
+*video in HD, colore, suono, 12 min 02 sec*
+
+
 🕒 Lezione performativa: **15:00**  
 📍 ex Istituto di Zoologia, Via San Giacomo 9, Bologna  
 **Giulia Deval** - *Video, colore, suono* (19 min 30 sec)  
@@ -100,3 +121,5 @@ Eseguita da *Michelle Cheung* (Alexandra Pirici) · Durata: 30 min · Max 45 per
 [Alexandra Pirici - Rejoin](https://github.com/fabioviggiano/artcity2026/blob/main/specialprojects/Alexandra%20Pirici%20Rejon%20%40%20Biblioteca%20dell'%20Archiginnasio%20-%20Teatro%20Anatomico.md)
 *Azione performativa ed elemento scultoreo*  
 Eseguita da *Michelle Cheung* (Alexandra Pirici) · Durata: 30 min · Max 45 persone · **Prenotazione obbligatoria**  
+
+
