@@ -16,6 +16,16 @@
 *Azione performativa ed elemento scultoreo*  
 Eseguita da *Michelle Cheung* (Alexandra Pirici) · Durata: 30 min · Max 45 persone · **Prenotazione obbligatoria**  
 
+🕒 **19:00 - 23:00**
+📍 SSPAM! Spazio Per le Arti del Mercato, Via Albani 10, C/O Box 24
+PAM! SPAM! SPAM!
+*proiezione sarà accompagnata dalle sonorizzazioni live di Gianmarco Leprozo aka PRESENTE*
+
+
+🕒 INAUGURAZIONE **18:30 - 22:00*
+📍 Baumhaus, Via Jacopo Barozzi, 3/P
+IT ALL STARTS WITH A PUSH di Margherita Caprilli
+
 ---
 
 ## Venerdì 6 Febbraio
