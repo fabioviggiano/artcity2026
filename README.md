@@ -42,7 +42,7 @@ Guida giorno per giorno:
 
 *   [**Giovedì 5**](https://github.com/fabioviggiano/artcity2026/blob/main/giornoPerGiorno/02.05%20-%20Gioved%C3%AC.md)
 *   [**Venerdì 6**](https://github.com/fabioviggiano/artcity2026/blob/main/giornoPerGiorno/02.06%20-%20Venerd%C3%AC.md)
-*   [**Sabato 7**](https://github.com/fabioviggiano/artcity2026/blob/main/giornoPerGiorno/02.07%20-%20Sabato%20(Art%20City%20Night)%2Cmd)*   
+*   [**Sabato 7**](https://github.com/fabioviggiano/artcity2026/blob/main/giornoPerGiorno/02.07%20-%20Sabato%20(Art%20City%20Night)%2Cmd)
 * [**Domenica 8**](https://github.com/fabioviggiano/artcity2026/blob/main/giornoPerGiorno/02.08%20-%20Domenica.md)
 
 ## 📜 Licenza
