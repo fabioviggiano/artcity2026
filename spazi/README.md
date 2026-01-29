@@ -1,7 +1,7 @@
 ## Herald St.
 
 📍 Indirizzo
-Ghetto Ebraico, Bologna (via non specificata)
+Ghetto Ebraico, Bologna
 
 🧭 Cos’è
 Nuovo spazio espositivo di oltre 100 mq situato al piano terra di un palazzo storico nel cuore del Ghetto Ebraico. La sede va ad affiancare quelle di Bethnal Green e Bloomsbury, ampliando la presenza di Herald St. in Italia. L’inaugurazione è prevista in occasione di ART CITY 2026.
