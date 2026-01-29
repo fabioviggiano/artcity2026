@@ -1,4 +1,4 @@
-# Location Special Projects ART CITY Bologna 2026
+# Special Projects 
 
 ## Aula Magna della Biblioteca Universitaria
 **Via Zamboni 33-35, Bologna**  
@@ -64,7 +64,7 @@
 
 **Orari di apertura:**  
 - Giovedì 5, Venerdì 6, Domenica 8 febbraio: 10:00–19:00  
-- Sabato 7 febbraio: 10:00–23:00  
+
 
 **Note:** La mostra prosegue fino al 27 febbraio 2026  
 
@@ -75,3 +75,13 @@
 
 **Orari di apertura:**  
 - Giovedì 5, Venerdì 6, Sabato 7, Domenica 8 febbraio: 10:00–19:00  
+
+---
+
+# Spazi/Galleria
+
+## Laboratorio degli Angeli
+**Via degli Angeli 32, Bologna**
+- Lunedì 2, Mercoledì 4 febbraio::  11:00-18:00
+- Giovedì 5, Venerdì 6, Domenica 8 febbraio: 11:00–18:00 
+- Sabato 7 febbraio: 10:00–24:00  
