@@ -1,10 +1,17 @@
-Herald St.
+## Herald St.
 
-Il nuovo spazio, oltre 100 mq al piano terra di un palazzo storico nel cuore del Ghetto Ebraico, va ad affiancare le sedi di Bethnal Green e Bloomsbury e sarà inaugurato in occasione di ART CITY 2026.
+📍 Indirizzo
+Ghetto Ebraico, Bologna (via non specificata)
 
+🧭 Cos’è
+Nuovo spazio espositivo di oltre 100 mq situato al piano terra di un palazzo storico nel cuore del Ghetto Ebraico. La sede va ad affiancare quelle di Bethnal Green e Bloomsbury, ampliando la presenza di Herald St. in Italia. L’inaugurazione è prevista in occasione di ART CITY 2026.
 
-ex chiesa di San Nicolò di San Felice 
+##  Ex Chiesa di San Nicolò di San Felice
 
-Riapre eccezionalmente al pubblico dopo anni di chiusura, restituendo alla città uno spazio storico sospeso, in attesa di una nuova forma e di una futura destinazione. Dal 3 all’8 febbraio 2026, la mostra GAP, a cura di Serendippo e in collaborazione con Rione San Nicolò, segna la prima riattivazione pubblica temporanea dell’edificio e si inserisce all’interno di pubbliCITTÀ> 2026, progetto di arte contemporanea diffusa che attraversa spazi pubblici e interni di Bologna mettendo in relazione pratiche artistiche, contesto urbano e cittadinanza.
+📍 Indirizzo
+Incrocio tra via San Felice e via dell’Abbadia, Bologna
 
-Situata all’incrocio tra via San Felice e via dell’Abbadia, l’ex chiesa di San Nicolò è ciò che resta di uno dei più antichi complessi monastici della Bologna cristiana.
+🧭 Cos’è
+Spazio storico di grande valore, ciò che resta di uno dei più antichi complessi monastici della Bologna cristiana. Dopo anni di chiusura, l’ex chiesa riapre eccezionalmente al pubblico come luogo “sospeso”, in attesa di una futura destinazione.
+
+Dal 3 all’8 febbraio 2026 ospita GAP, mostra a cura di Serendippo in collaborazione con Rione San Nicolò: prima riattivazione pubblica temporanea dell’edificio, inserita nel programma di pubbliCITTÀ> 2026, progetto di arte contemporanea diffusa che mette in relazione pratiche artistiche, contesto urbano e cittadinanza.
