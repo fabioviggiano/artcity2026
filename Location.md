@@ -1,4 +1,4 @@
-# Special Projects 
+ # Special Projects 
 
 ## Aula Magna della Biblioteca Universitaria
 **Via Zamboni 33-35, Bologna**  
@@ -81,6 +81,8 @@
 # Spazi/Galleria
 
 ## Laboratorio degli Angeli
+**Orari di apertura:**  
+
 **Via degli Angeli 32, Bologna**
 - Lunedì 2, Mercoledì 4 febbraio::  11:00-18:00
 - Giovedì 5, Venerdì 6, Domenica 8 febbraio: 11:00–18:00 
@@ -89,13 +91,12 @@
 ## Oratorio San Filippo Neri
 **Via Manzoni 5, Bologna**
 
-Orari di apertura ordinari:
-lunedì 2, martedì 3 e mercoledì 4 febbraio, dalle 16 alle 20
+*Inaugurazione domenica 1 febbraio, ore 18*
 
-Inaugurazione domenica 1 febbraio, ore 18
+**Orari di apertura:**  
 
-Orari di apertura ART CITY Bologna:
-Giovedì 5 febbraio 2026 dalle 16 alle 24
-Venerdì 6 febbraio 2026 dalle 16 alle 24
-Sabato 7 febbraio 2026 dalle 16 alle 24
-Domenica 8 febbraio 2026 dalle 16 alle 24
+- Lunedì 2, martedì 3 e mercoledì 4 febbraio, dalle 16 alle 20
+- Giovedì 5 febbraio 2026 dalle 16 alle 24
+- Venerdì 6 febbraio 2026 dalle 16 alle 24
+- Sabato 7 febbraio 2026 dalle 16 alle 24
+- Domenica 8 febbraio 2026 dalle 16 alle 24
