@@ -15,3 +15,11 @@ Incrocio tra via San Felice e via dell’Abbadia, Bologna
 Spazio storico di grande valore, ciò che resta di uno dei più antichi complessi monastici della Bologna cristiana. Dopo anni di chiusura, l’ex chiesa riapre eccezionalmente al pubblico come luogo “sospeso”, in attesa di una futura destinazione.
 
 Dal 3 all’8 febbraio 2026 ospita GAP, mostra a cura di Serendippo in collaborazione con Rione San Nicolò: prima riattivazione pubblica temporanea dell’edificio, inserita nel programma di pubbliCITTÀ> 2026, progetto di arte contemporanea diffusa che mette in relazione pratiche artistiche, contesto urbano e cittadinanza.
+
+## Palazzo Bentivoglio
+📍 Indirizzo
+ Via del Borgo di S. Pietro, 1, 40126 Bologna BO
+
+ 
+🧭 Cos’è
+Palazzo Bentivoglio fu una grandiosa residenza rinascimentale bolognese dei Bentivoglio, costruita dal 1460 e detta Domus Aurea. Distrutto nel 1507 per motivi politici, contava 244 stanze riccamente affrescate. Oggi l’area ospita Teatro Comunale e Giardino del Guasto storico di Bologna.
