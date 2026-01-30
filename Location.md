@@ -83,7 +83,7 @@
 ## Laboratorio degli Angeli
 **Orari di apertura:**  
 
-**Via degli Angeli 32, Bologna**
+**Via degli Angeli, 32**
 - Lunedì 2, Mercoledì 4 febbraio::  11:00-18:00
 - Giovedì 5, Venerdì 6, Domenica 8 febbraio: 11:00–18:00 
 - Sabato 7 febbraio: 10:00–24:00  
@@ -100,3 +100,13 @@
 - Venerdì 6 febbraio 2026 dalle 16 alle 24
 - Sabato 7 febbraio 2026 dalle 16 alle 24
 - Domenica 8 febbraio 2026 dalle 16 alle 24
+
+## Palazzo Bentivoglio
+**Via del Borgo di S. Pietro, 1**
+**Orari di apertura:**  
+
+**Via degli Angeli 32, Bologna**
+- dal 30 gennaio al 26 aprile 2026
+-- dal venerdì alla domenica dalle 12 alle 19
+
+
