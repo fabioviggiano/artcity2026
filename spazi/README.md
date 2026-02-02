@@ -32,6 +32,6 @@ via Collegio di Spagna 2/3 A - Bologna
 🧭 Cos’è
 Il Collegio di Spagna fu fondato dal Cardinale spagnolo Egidio de Albornoz Legato del Papa che trovando in Bologna una città viva e colta con la sua importantissima università e tanti studenti stranieri pensò di fare costruire un Collegio che potesse accogliere gli studenti spagnoli.
 
-##Ex Chiesa di San Barbaziano
+##  Chiesa di San Barbaziano
 📍 Indirizzo
 via Cesare Battisti, 35 bologna
