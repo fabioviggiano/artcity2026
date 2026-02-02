@@ -10,4 +10,5 @@
 
 **Concetto Pozzati. Da e per Morani** @ Casa Moranid (Fino al 15 Marzo)
 **Malisa Catalani. Unhuman** @ Simonbart gallery (Fino ale 28 Febbraio)
-**Micheael E. Smith** @ Palazzo/Garage Bentivoglio, 
+**Micheael E. Smith** + **Alberto Gratutti. Temporali** @ Palazzo/Garage Bentivoglio (Fino ale 28 Febbraio)
+**Michelangelo Angelo Pistoletto. Dalla cittadellarte allo statodellarte** @ Palazzo/Garage Bentivoglio (Fino ale 3 Giugno)
