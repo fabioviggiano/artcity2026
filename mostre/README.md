@@ -7,3 +7,7 @@
 ### Centro
 
 **CC** *Mostra personale di Michael E. Smith (Detroit, 1977)* @ Palazzo Bentivoglio -  Via del Borgo di S. Pietro, 1
+
+**Concetto Pozzati. Da e per Morani** @ Casa Moranid (Fino al 15 Marzo)
+**Malisa Catalani. Unhuman** @ Simonbart gallery (Fino ale 28 Febbraio)
+**Micheael E. Smith** @ Palazzo/Garage Bentivoglio, 
