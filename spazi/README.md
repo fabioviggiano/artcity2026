@@ -23,3 +23,11 @@ Dal 3 all’8 febbraio 2026 ospita GAP, mostra a cura di Serendippo in collabora
  
 🧭 Cos’è
 Palazzo Bentivoglio fu una grandiosa residenza rinascimentale bolognese dei Bentivoglio, costruita dal 1460 e detta Domus Aurea. Distrutto nel 1507 per motivi politici, contava 244 stanze riccamente affrescate. Oggi l’area ospita Teatro Comunale e Giardino del Guasto storico di Bologna.
+
+
+## Casa Cervantes del Reale Collegio di Spagna
+📍 Indirizzo
+via Collegio di Spagna 2/3 A - Bologna
+
+🧭 Cos’è
+Il Collegio di Spagna fu fondato dal Cardinale spagnolo Egidio de Albornoz Legato del Papa che trovando in Bologna una città viva e colta con la sua importantissima università e tanti studenti stranieri pensò di fare costruire un Collegio che potesse accogliere gli studenti spagnoli.
