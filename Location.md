@@ -135,7 +135,8 @@ La mostra prosegue fino al **27 febbraio 2026**
 - Sabato 7 febbraio: 10:00–23:00  
 - Domenica 8 febbraio: 10:00–19:00  
 
-##  2rich_studioì - Via Cesare Battisti 31b, Bologna   
+##  2rich_studioì 
+**Via Cesare Battisti 31b, Bologna**  
 
 ### **TAPPETI PREGIATI CANEMORTO - I migliori tappeti in città! Produzione propria. Prezzi folli!**
  
