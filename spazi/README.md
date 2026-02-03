@@ -19,11 +19,9 @@ Dal 3 all’8 febbraio 2026 ospita GAP, mostra a cura di Serendippo in collabora
 ## Palazzo Bentivoglio
 📍 Indirizzo
  Via del Borgo di S. Pietro, 1, 40126 Bologna BO
-
  
 🧭 Cos’è
 Palazzo Bentivoglio fu una grandiosa residenza rinascimentale bolognese dei Bentivoglio, costruita dal 1460 e detta Domus Aurea. Distrutto nel 1507 per motivi politici, contava 244 stanze riccamente affrescate. Oggi l’area ospita Teatro Comunale e Giardino del Guasto storico di Bologna.
-
 
 ## Casa Cervantes del Reale Collegio di Spagna
 📍 Indirizzo
@@ -35,3 +33,7 @@ Il Collegio di Spagna fu fondato dal Cardinale spagnolo Egidio de Albornoz Legat
 ##  Chiesa di San Barbaziano
 📍 Indirizzo
 via Cesare Battisti, 35 bologna
+
+## Magazzino del Pincio
+📍 Indirizzo
+Parco della Montagnola - Bologna
