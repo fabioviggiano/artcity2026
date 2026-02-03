@@ -40,11 +40,11 @@ Michelangelo Pistoletto. Dalla cittadellarte allo statodellarte
 
 TAPPETI PREGIATI CANEMORTO - I migliori tappeti in città! Produzione propria. Prezzi folli!
 
--- Dal 5 all' 8 febbraio 2026
-📍 2rich_studioì - Via Cesare Battisti 31b, Bologna
+-- Dal 5 all' 8 febbraio 2026  
+📍 2rich_studioì - Via Cesare Battisti 31b, Bologna  
 
 
-Giovedì 5 febbraio dalle 19:00 alle 22:00 (GRAND OPENING)
-Venerdì 6 febbraio 10:00-12:00 / 17:00-20:00
-Sabato 7 febbraio 10:00-12:00 / 17:00-20:00
-Domenica 8 febbraio 10:00-12:00 / 17:00 -20:00
+Giovedì 5 febbraio dalle 19:00 alle 22:00 (GRAND OPENING) 
+Venerdì 6 febbraio 10:00-12:00 / 17:00-20:00  
+Sabato 7 febbraio 10:00-12:00 / 17:00-20:00  
+Domenica 8 febbraio 10:00-12:00 / 17:00 -20:00  
