@@ -127,7 +127,7 @@ La mostra prosegue fino al **27 febbraio 2026**
 ## Magazzino del Pincio (Parco della Montagnola)
 
 **Periodo di apertura:**
-- Dal **5 all’8 febbraio**
+🗓️ Dal **5 all’8 febbraio**
 
 **Orari:**
 - Giovedì 5 febbraio: 10:00–19:00  
