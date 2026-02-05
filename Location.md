@@ -133,10 +133,8 @@ La mostra prosegue fino al **27 febbraio 2026**
 🗓️ Dal **5 all’8 febbraio**
 
 **Orari:**
-- Giovedì 5 febbraio: 10:00 – 19:00  
-- Venerdì 6 febbraio: 10:00 – 22:00  
-- Sabato 7 febbraio: 10:00 – 23:00  | ART CITY WHITE NIGHT
-- Domenica 8 febbraio: 10:00– 19:00  
+ DA DEFINIRE
+---
 
 ##  2rich_studio
 **Via Cesare Battisti 31b, Bologna**  
@@ -150,6 +148,8 @@ La mostra prosegue fino al **27 febbraio 2026**
 - Venerdì 6 febbraio 10:00-12:00 / 17:00-20:00    
 - Sabato 7 febbraio 10:00-12:00 / 17:00-20:00   | ART CITY WHITE NIGHT
 - Domenica 8 febbraio 10:00-12:00 / 17:00 -20:00  
+
+---
 
 ## Ex chiesa di San Mattia 
 ### CODEX - L'eco del wireless diventa pensiero digitale
