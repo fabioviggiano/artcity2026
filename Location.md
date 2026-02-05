@@ -75,7 +75,10 @@ La mostra prosegue fino al **27 febbraio 2026**
 **Via Gobetti 9, Bologna**
 
 **Orari di apertura:**
-- Giovedì 5, Venerdì 6, Sabato 7, Domenica 8 febbraio: 10:00–19:00  
+- Giovedì 5 febbraio 2026: 10:00–19:00 
+- Venerdì 6 febbraio 2026 10:00–19:00 
+- Sabato 7 febbraio 2026: 16:00–24:00 | ART CITY WHITE NIGHT
+- Domenica 8 febbraio 2026: 10:00–19:00
 
 ---
 
@@ -87,7 +90,7 @@ La mostra prosegue fino al **27 febbraio 2026**
 **Orari di apertura:**
 - Lunedì 2 e Mercoledì 4 febbraio: 11:00–18:00  
 - Giovedì 5, Venerdì 6, Domenica 8 febbraio: 11:00–18:00  
-- Sabato 7 febbraio: 10:00–24:00  
+- Sabato 7 febbraio: 10:00–24:00 | ART CITY WHITE NIGHT
 
 ---
 
@@ -100,7 +103,7 @@ La mostra prosegue fino al **27 febbraio 2026**
 - Lunedì 2, Martedì 3, Mercoledì 4 febbraio: 16:00–20:00  
 - Giovedì 5 febbraio 2026: 16:00–24:00  
 - Venerdì 6 febbraio 2026: 16:00–24:00  
-- Sabato 7 febbraio 2026: 16:00–24:00  
+- Sabato 7 febbraio 2026: 16:00–24:00 | ART CITY WHITE NIGHT
 - Domenica 8 febbraio 2026: 16:00–24:00  
 
 ---
@@ -130,12 +133,12 @@ La mostra prosegue fino al **27 febbraio 2026**
 🗓️ Dal **5 all’8 febbraio**
 
 **Orari:**
-- Giovedì 5 febbraio: 10:00–19:00  
-- Venerdì 6 febbraio: 10:00–22:00  
-- Sabato 7 febbraio: 10:00–23:00  
-- Domenica 8 febbraio: 10:00–19:00  
+- Giovedì 5 febbraio: 10:00 – 19:00  
+- Venerdì 6 febbraio: 10:00 – 22:00  
+- Sabato 7 febbraio: 10:00 – 23:00  | ART CITY WHITE NIGHT
+- Domenica 8 febbraio: 10:00– 19:00  
 
-##  2rich_studioì 
+##  2rich_studio
 **Via Cesare Battisti 31b, Bologna**  
 
 ### **TAPPETI PREGIATI CANEMORTO - I migliori tappeti in città! Produzione propria. Prezzi folli!**
@@ -145,5 +148,14 @@ La mostra prosegue fino al **27 febbraio 2026**
 **Orari:**
 - Giovedì 5 febbraio dalle 19:00 alle 22:00 (GRAND OPENING)   
 - Venerdì 6 febbraio 10:00-12:00 / 17:00-20:00    
-- Sabato 7 febbraio 10:00-12:00 / 17:00-20:00  
+- Sabato 7 febbraio 10:00-12:00 / 17:00-20:00   | ART CITY WHITE NIGHT
 - Domenica 8 febbraio 10:00-12:00 / 17:00 -20:00  
+
+## Ex chiesa di San Mattia 
+### CODEX - L'eco del wireless diventa pensiero digitale
+
+**Orari di apertura:**
+- Giovedì 5 febbraio h 16.00 - 20.00
+- Venerdì 6 febbraio h 16.00 - 20.00
+- Sabato 7 febbraio h 16.00 - 22.00 | ART CITY WHITE NIGHT
+- Domenica 8 febbraio h 16.00 - 20.00
